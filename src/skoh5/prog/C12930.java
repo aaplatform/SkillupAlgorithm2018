@@ -1,4 +1,4 @@
-package skoh5;
+package skoh5.prog;
 
 /**
  * 이상한 문자 만들기

@@ -1,4 +1,4 @@
-package skoh5;
+package skoh5.prog;
 
 /**
  * 약수의 합

@@ -1,4 +1,4 @@
-package skoh5;
+package skoh5.prog;
 
 /**
  * 자릿수 더하기
