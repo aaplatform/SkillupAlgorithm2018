@@ -1,4 +1,4 @@
-package skoh5.prog;
+package skoh5.prog.lv1;
 
 /**
  * 제일 작은수 제거하기  

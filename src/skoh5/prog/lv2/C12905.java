@@ -1,4 +1,4 @@
-package skoh5.prog;
+package skoh5.prog.lv2;
 
 /**
  * 가장 큰 정사각형 찾기

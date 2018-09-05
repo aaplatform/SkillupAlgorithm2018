@@ -1,4 +1,4 @@
-package skoh5.prog;
+package skoh5.prog.lv1;
 
 import java.util.Collections;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package skoh5.prog;
+package skoh5.prog.lv2;
 
 /**
  * 올바른 괄호 

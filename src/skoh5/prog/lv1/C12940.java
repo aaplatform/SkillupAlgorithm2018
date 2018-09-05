@@ -1,4 +1,4 @@
-package skoh5.prog;
+package skoh5.prog.lv1;
 
 /**
  * 최대공약수와 최소공배수   
