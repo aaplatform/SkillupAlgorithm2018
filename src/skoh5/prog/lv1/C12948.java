@@ -1,7 +1,5 @@
 package skoh5.prog.lv1;
 
-import java.util.Collections;
-import java.util.stream.Collectors;
 
 /**
  * 핸드폰 번호 가리기 
